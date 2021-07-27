@@ -1,6 +1,6 @@
 # GAN_HoneyFlow
 
-dataset.py: prepare dataset
+dataset.py: prepare dataset \n
 train_ae.py: train the auto-encoder and decoder
 train_gan.py: train the GAN model
 models.py: build the models
